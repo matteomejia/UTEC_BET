@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiniBet</string>
+    <string name="scores">Scores</string>
+    <string name="button">Button</string>
+    <string name="info">info</string>
+    <string name="bets">bets</string>
+    <string name="add">ADD</string>
+    <string name="wallet">wallet</string>
+</resources>
